@@ -1,0 +1,47 @@
+.read-section {
+    color: #6047EC;
+    font-family: "Exo 2";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    /* 38.4px */
+
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+
+    background: rgba(96, 71, 236, 0.10);
+    padding: 10px;
+    width: 320px;
+    text-align: center;
+    margin: auto;
+}
+
+.bookmark {
+    width: 411px;
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+    text-align: center;
+    height: 1000px;
+
+
+}
+
+.readbook-div {
+    
+    gap: 10px;
+    display: grid;
+    
+}
+
+.readbook {
+    font-size: 30px;
+    padding: 8px;
+    width: 351px;
+    height: 98px;
+    border-radius: 8px;
+    background: #FFF;
+    text-align: center;
+    margin: auto;
+    
+}

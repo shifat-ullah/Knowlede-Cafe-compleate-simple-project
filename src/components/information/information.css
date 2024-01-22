@@ -1,0 +1,45 @@
+.img {
+    width: 800px;
+}
+
+.photo {
+    width: 80px;
+    height: 80px;
+
+    border-radius: 100%;
+}
+
+.main-card {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.secoundary-div {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+}
+
+.peragraph {
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.btn {
+    color: #6047EC;
+    margin-bottom: 20px;
+    font-family: "Exo 2";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+    border: none;
+    cursor: pointer;
+}
+.btn-icon{
+    border: none;
+    cursor: pointer;
+    font-size: 30px;
+}
